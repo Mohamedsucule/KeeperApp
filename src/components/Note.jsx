@@ -14,7 +14,7 @@ function Note(props) {
         <DeleteIcon />
       </button>
     </div>
-  );
+  )
 }
 
 export default Note;
