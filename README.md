@@ -8,7 +8,7 @@ Screenshot of Keeper App
 🏃‍♂️ Local Installation
 1. Drop a ⭐ on the Github Repository.
 2. Clone the Repo by going to your local Git Client and pushing in the command:
-https://github.com/mechiragjain/Keeper-App
+https://github.com/Mohamedsucule/Keeper-App
 3. Install the Node Modules:
 npm install
 4. At last, push in the command which will kickstart the application on Local Host:
